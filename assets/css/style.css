@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 60px;
+  max-height: 75px;
 }
 
 /*--------------------------------------------------------------
@@ -556,7 +556,7 @@ section {
   padding: 15px 0;
   background: #1bbd36;
   min-height: 40px;
-  margin-top: 90px;
+  margin-top: 105px;
 }
 
 .breadcrumbs h2 {
@@ -591,7 +591,7 @@ section {
 
 @media (max-width: 991px) {
   .breadcrumbs {
-    margin-top: 90px;
+    margin-top: 100px;
   }
   .breadcrumbs .d-flex {
     display: block !important;
